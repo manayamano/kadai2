@@ -1,8 +1,7 @@
 package kadai2;
-import java.util.Scanner;
 
 public class Kadai2 {
-
+/*
 	public static void main(String[] args) {
 		System.out.println("アラビア数字を入力してください。");
 		Scanner scanner = new Scanner(System.in);
@@ -10,8 +9,10 @@ public class Kadai2 {
 		System.out.println(roma(num));
 
 	}
+*/
 
-	private static String roma(int n){
+
+	static String roma(int n){
 
 		String result="";
 
